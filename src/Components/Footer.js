@@ -10,7 +10,7 @@ function Footer() {
     <div>
       <Container fluid className="footer">
         Copywrite © {year} | Made By {" "}
-        Pranjal Rishab Soumyak Rp
+        Pranjal
       </Container>
     </div>
   );
